@@ -1,7 +1,3 @@
-
-<img src="https://c.tenor.com/1mwdqr51emcAAAAC/test-typing.gif" style="width: 100%; height: 300px;" alt="">
-
-
 <h1 align="center">Hi 👋, I'm Saumitra Upadhyay</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
