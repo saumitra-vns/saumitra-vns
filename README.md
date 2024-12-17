@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Saumitra Upadhyay</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate Java Backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saumitra-vns&label=Profile%20views&color=0e75b6&style=flat" alt="saumitra-vns" /> </p>
 
-- 🌱 I’m currently learning **Java, Spring, JavaScript, Node.js, express, SQL, MongoDB**
+- 🌱 I’m currently learning **Java, Spring, Springboot, JavaScript, Hibernate JPA, HTML, CSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/saumitra-vns](https://github.com/saumitra-vns)
 
 - 📝 I regularly write articles on [https://medium.com/@sumitupadhyayvns](https://medium.com/@sumitupadhyayvns)
 
-- 💬 Ask me about **Java, JavaScript, Node.js, express, MongoDB**
+- 💬 Ask me about **Java, Spring, Springboot, JavaScript, Hibernate JPA, HTML, CSS**
 
 - 📫 How to reach me **saumitravns@gmail.com/sumitupadhyayvns@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AuPdaUBkatX-mbDS_R0pucuWj3Qe3-Nh/view?usp=sharing](https://drive.google.com/file/d/1AuPdaUBkatX-mbDS_R0pucuWj3Qe3-Nh/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_L3S04q-YL0pWCDsL_GlV0LvkjxsYCk0/view?usp=drive_link]
 
 - ⚡ Fun fact **My friends says I am always in the mood fun and also I am very friendly**
 
